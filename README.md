@@ -8,3 +8,4 @@
 ・finish chapter6*    
 ・finish chapter7    
 ・finish chapter8*    
+・finish chapter9*  
