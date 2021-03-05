@@ -1,35 +1,23 @@
 
 public class Main {
 	public static void main(String[] args) {
-		Hero h = new Hero();
-		h.name = "ミナト";
-		h.hp = 100;
+		Hero h1 = new Hero("ミナト");
+//		h1.name = "ミナト";
+//		h1.hp = 100;
+		Hero h2 = new Hero();
+//		h2.name = "アサカ";
+//		h2.hp = 100;
+		Wizard w = new Wizard();
+		w.name = "スガワラ";
+		w.hp = 50;
+//		w.heal(h1);
+//		w.heal(h2);
+		Thief t1 = new Thief("田中");
 		
-		Matango m1 = new Matango();
-		m1.hp = 50;
-		m1.suffix = 'A';
-		
-		Matango m2 = new Matango();
-		m2.hp = 48;
-		m2.suffix = 'B';
-		
-		Cleric c = new Cleric();
-		c.name = "リョウタ";
-		
-		
-//		System.out.println("勇者" + h.name + "を生み出した！");
-//		h.sit(5);
-//		h.slip();
-//		h.sit(25);
-//		h.run();
-		
-//		h.slip();
-//		m1.run();
-//		m2.run();
-//		h.run();
-		
-		c.selfAid();
-		c.pray(3);
+		System.out.println(t1.mp);
+		System.out.println(t1.name);
+		System.out.println(h2.hp);
+		System.out.println(h2.name);
 	}
 
 }
