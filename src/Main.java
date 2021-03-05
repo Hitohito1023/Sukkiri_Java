@@ -13,16 +13,23 @@ public class Main {
 		m2.hp = 48;
 		m2.suffix = 'B';
 		
+		Cleric c = new Cleric();
+		c.name = "リョウタ";
+		
+		
 //		System.out.println("勇者" + h.name + "を生み出した！");
 //		h.sit(5);
 //		h.slip();
 //		h.sit(25);
 //		h.run();
 		
-		h.slip();
-		m1.run();
-		m2.run();
-		h.run();
+//		h.slip();
+//		m1.run();
+//		m2.run();
+//		h.run();
+		
+		c.selfAid();
+		c.pray(3);
 	}
 
 }
