@@ -1,6 +1,7 @@
 package chapter10;
 
 public class SuperHero extends Hero {
+//	String name = "aiu";
 	boolean flying;
 	public void fly() {
 		this.flying = true;
