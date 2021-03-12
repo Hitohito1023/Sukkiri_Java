@@ -11,7 +11,7 @@ public abstract class Character {
 //		m.hp -= ??;
 //		System.out.println("敵に??ポイントのダメージを与えた");
 //	}
-	
-	public abstract void attack(Matango m);
+
+//	public abstract void attack(Matango m);
 
 }
