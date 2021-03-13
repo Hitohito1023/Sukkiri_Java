@@ -9,5 +9,6 @@
 ・finish chapter7    
 ・finish chapter8*    
 ・finish chapter9*  
-・finish chapter10*
-・finish chapter11*
+・finish chapter10*  
+・finish chapter11*  
+・finish chapter12*  
