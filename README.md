@@ -13,3 +13,4 @@
 ・finish chapter11*  
 ・finish chapter12*  
 ・finish chapter13*  
+・finish chapter14
