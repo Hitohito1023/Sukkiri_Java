@@ -7,17 +7,19 @@ public class Main2 {
 //			sb.append("Java");
 //		}
 //		String s = sb.toString();
-		
+
 //		String s = "abc,def:ghi";
 //		String[] words = s.split("[,:]");
 //		System.out.println(Arrays.toString(words));
 //		for (String w : words) {
 //			System.out.print(w + "->");
 //		}
-		
-		String s = "abc,def:ghi";
-		String w = s.replaceAll("[beh]", "x");
-		System.out.println(w);
+
+//		String s = "abc,def:ghi";
+//		String w = s.replaceAll("[beh]", "x");
+//		System.out.println(w);
+
+		final String FORMAT = "%-9s %-13s 所持金%,6d";
 	}
 
 }
