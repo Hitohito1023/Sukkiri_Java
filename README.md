@@ -1,10 +1,10 @@
 ## スッキリわかるJava入門
-・finish chapter0  
-・finish chapter1  
-・finish chapter2  
-・finish chapter3  
-・finish chapter4  
-・finish chapter5  
+・finish chapter0 re   
+・finish chapter1 re   
+・finish chapter2 re   
+・finish chapter3 re   
+・finish chapter4 re   
+・finish chapter5 re   
 ・finish chapter6*    
 ・finish chapter7    
 ・finish chapter8*    
