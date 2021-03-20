@@ -6,8 +6,8 @@
 ・finish chapter4 re   
 ・finish chapter5 re   
 ・finish chapter6* re     
-・finish chapter7    
-・finish chapter8*    
+・finish chapter7 re    
+・finish chapter8* re  
 ・finish chapter9*  
 ・finish chapter10*  
 ・finish chapter11*  
