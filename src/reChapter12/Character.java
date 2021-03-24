@@ -9,6 +9,10 @@ public abstract class Character {
 	}
 
 	public abstract void attack(Matango m) ;
+	
+	public void fireball(Matango m) {
+		System.out.println("敵に20ポイントのダメージ");
+	}
 
 
 }
