@@ -13,7 +13,7 @@
 ・finish chapter11* re   
 ・finish chapter12* re   
 ・finish chapter13* re   
-・finish chapter14  
+・finish chapter14 re    
 ・finish chapter15  
 ・finish chapter16  
 ・finish chapter17  
