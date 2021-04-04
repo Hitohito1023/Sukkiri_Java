@@ -23,6 +23,11 @@ public class Main {
 		for (int i : points) {
 			System.out.println(i);
 		}
+		System.out.println(points.size());
+		
+		for(int i = 0; i < points.size(); i++) {
+			System.out.println(points.get(i));
+		}
 
 	}
 
