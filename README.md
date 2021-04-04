@@ -15,5 +15,5 @@
 ・finish chapter13* re   
 ・finish chapter14 re    
 ・finish chapter15 re   
-・finish chapter16  
+・finish chapter16 re    
 ・finish chapter17  
